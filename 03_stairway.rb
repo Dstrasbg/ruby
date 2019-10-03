@@ -53,6 +53,10 @@ def jeu_de_vilain
         position = game(position)
     end
        if position == 10
-               puts "Hey sweet duuudie, te voila au 10ème !!! Pas trop le vertige j'espère !"
+               puts "Te voilà au 10eme étage !"
+	       puts " Tu as fait #{counter} tours"
        end
-end  
+
+ end
+
+
